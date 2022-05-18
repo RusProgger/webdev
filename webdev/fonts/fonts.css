@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "OpenSansLight";
+  font-weight: 300;
+  src: url("OpenSans-Light.woff"), url("OpenSans-Light.woff2");
+}
+
+@font-face {
+  font-family: "OpenSansRegular";
+  font-weight: 400;
+  src: url("OpenSans-Regular.woff"), url("OpenSans-Regular.woff2");
+}
+
+@font-face {
+  font-family: "OpenSansBold";
+  font-weight: 700;
+  src: url("OpenSans-Bold.woff"), url("OpenSans-Bold.woff2");
+}
+
+@font-face {
+  font-family: "OpenSansExtra";
+  font-weight: 900;
+  src: url("OpenSans-ExtraBold.woff"), url("OpenSans-ExtraBold.woff2");
+}
